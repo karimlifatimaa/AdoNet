@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\AdoNet\AdoNet\AdoNet\bin\Debug\AdoNet.exe.config
+C:\Users\Admin\Desktop\AdoNet\AdoNet\AdoNet\bin\Debug\AdoNet.exe
+C:\Users\Admin\Desktop\AdoNet\AdoNet\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\Admin\Desktop\AdoNet\AdoNet\AdoNet\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\AdoNet\AdoNet\AdoNet\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\AdoNet\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AdoNet\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AdoNet\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.Up2Date
+C:\Users\Admin\Desktop\AdoNet\AdoNet\AdoNet\obj\Debug\AdoNet.exe
+C:\Users\Admin\Desktop\AdoNet\AdoNet\AdoNet\obj\Debug\AdoNet.pdb
